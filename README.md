@@ -1,6 +1,7 @@
 # noauthpy
 Spotify anonymous token-getter.
-Heavily inspired by @kaangiray26/noauth solution. This is *essentially* a python reimplementation of the same technique, in a slightly different, more functional, way. 
+Heavily inspired by [@kaangiray26/noauth](https://github.com/kaangiray26/noauth) solution. 
+This is *essentially* a python reimplementation of the same technique, in a slightly different, more functional, way. 
 
 ## Usage
 Single file solution -- just import the module. 
